@@ -494,6 +494,8 @@ This project is intended for **educational and demonstration purposes**. It shou
 
 # Author
 - Lakshya Agarwal
+
+
 **Hospital Patient Management System**
 
 Developed as a C programming project.
