@@ -493,7 +493,7 @@ Hospital Database
 This project is intended for **educational and demonstration purposes**. It should not be used as a production hospital information system without implementing appropriate security, authentication, authorization, data protection, auditing, backup, validation, and regulatory compliance mechanisms.
 
 # Author
-
+- Lakshya Agarwal
 **Hospital Patient Management System**
 
 Developed as a C programming project.
